@@ -21,3 +21,5 @@
   - CSS
   - Bootstrap
   - MySQL
+  
+** Note: the project should be done using the teacher's SQL.
