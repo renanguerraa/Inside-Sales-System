@@ -14,7 +14,6 @@
         <form action="Carrinho/carrinho.php">
             <button type="submit"class="position-fixed btn btn-warning btn-lg border border-dark w-100" style="z-index:4"><b>Adicionar Itens Selecionados ao Carrinho</b></button> <br> <br>
             <div class="container"> <br>
-                <p> <b>Alunos: </b> Raphael Marinho e Renan Guerra </p>
                 <?php
                 include_once 'Funcoes/BancoDeDados/bdConn.php';
 
